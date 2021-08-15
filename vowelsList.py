@@ -6,4 +6,4 @@ def vowelsList(str):
             listOfVowels.append(i)
     return listOfVowels
 
-print(vowelsList("I love all the Bhagavathulas"))
+print(vowelsList("I love all my family"))
